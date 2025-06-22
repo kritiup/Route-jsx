@@ -19,4 +19,4 @@ import NotFound from "./pages/NotFound";
     </div>
   );
  }
- export default App
+  export default App
